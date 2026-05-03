@@ -1,0 +1,96 @@
+[
+  {
+    "id": "ex_001",
+    "title": "Box Breathing (4-4-4-4)",
+    "category": "Breathing",
+    "target_emotions": ["anxiety", "stress", "overwhelm", "panic"],
+    "duration_minutes": 5,
+    "difficulty": "beginner",
+    "description": "Box Breathing is a powerful stress-relief technique used by Navy SEALs and first responders. It activates your parasympathetic nervous system, slowing your heart rate and promoting a state of calm.",
+    "instructions": [
+      "Find a comfortable seated position and close your eyes.",
+      "Inhale slowly through your nose for 4 seconds, feeling your lungs expand fully.",
+      "Hold your breath gently for 4 seconds — don't clench, just pause.",
+      "Exhale slowly through your mouth for 4 seconds, releasing all tension.",
+      "Hold your breath again for 4 seconds before beginning the next cycle.",
+      "Repeat for 4-6 cycles or until you feel a sense of calm wash over you."
+    ],
+    "scientific_basis": "Controlled breathing stimulates the vagus nerve, which activates the parasympathetic nervous system and reduces cortisol levels."
+  },
+  {
+    "id": "ex_002",
+    "title": "Body Scan Meditation",
+    "category": "Meditation",
+    "target_emotions": ["tension", "insomnia", "restlessness", "physical discomfort"],
+    "duration_minutes": 15,
+    "difficulty": "beginner",
+    "description": "A guided journey through your body that helps you notice and release physical tension. This practice builds mind-body awareness and is especially effective before sleep.",
+    "instructions": [
+      "Lie down in a comfortable position or sit with your back supported.",
+      "Close your eyes and take three deep, cleansing breaths.",
+      "Begin at the top of your head — notice any sensations without judgment.",
+      "Slowly move your attention down: forehead, eyes, jaw, neck, shoulders.",
+      "Continue scanning through your arms, chest, abdomen, hips, legs, and feet.",
+      "At each area, breathe into any tension you find and consciously release it.",
+      "After reaching your feet, take a moment to feel your whole body at once.",
+      "Gently open your eyes when you're ready."
+    ],
+    "scientific_basis": "Body scan meditation has been shown to reduce symptoms of anxiety, depression, and chronic pain by enhancing interoceptive awareness (Ditto et al., 2006)."
+  },
+  {
+    "id": "ex_003",
+    "title": "Gratitude Journaling",
+    "category": "Cognitive Reframing",
+    "target_emotions": ["sadness", "negativity", "low mood", "loneliness"],
+    "duration_minutes": 10,
+    "difficulty": "beginner",
+    "description": "Gratitude journaling rewires your brain to focus on positive aspects of life. Research shows that writing down things you're grateful for can significantly boost happiness and reduce depressive symptoms.",
+    "instructions": [
+      "Set aside 10 quiet minutes — morning or evening works best.",
+      "Write down 3 specific things you are grateful for today.",
+      "For each item, write WHY you are grateful — be specific and personal.",
+      "Reflect on one person who positively impacted your day and describe how.",
+      "Close by writing one kind thing you did for yourself or others today.",
+      "Read your entries aloud if comfortable — hearing gratitude amplifies its effect."
+    ],
+    "scientific_basis": "Emmons & McCullough (2003) demonstrated that gratitude journaling increases well-being by 25% and improves sleep quality."
+  },
+  {
+    "id": "ex_004",
+    "title": "5-4-3-2-1 Grounding Technique",
+    "category": "Grounding",
+    "target_emotions": ["dissociation", "panic attack", "anxiety", "flashbacks"],
+    "duration_minutes": 5,
+    "difficulty": "beginner",
+    "description": "This sensory-based grounding exercise anchors you to the present moment by engaging all five senses. It's one of the most effective techniques for interrupting anxiety spirals and panic attacks.",
+    "instructions": [
+      "Pause whatever you're doing and take one slow, deep breath.",
+      "Name 5 things you can SEE — look around and describe them in detail.",
+      "Name 4 things you can TOUCH — feel textures around you (clothing, desk, skin).",
+      "Name 3 things you can HEAR — listen carefully for ambient sounds.",
+      "Name 2 things you can SMELL — notice scents in your environment.",
+      "Name 1 thing you can TASTE — notice the taste in your mouth right now.",
+      "Finish with three slow breaths and check in with how you feel."
+    ],
+    "scientific_basis": "Grounding techniques reduce amygdala activation and engage the prefrontal cortex, helping regain cognitive control during fight-or-flight responses."
+  },
+  {
+    "id": "ex_005",
+    "title": "Loving-Kindness Meditation (Metta)",
+    "category": "Meditation",
+    "target_emotions": ["self-criticism", "anger", "resentment", "loneliness", "low self-esteem"],
+    "duration_minutes": 10,
+    "difficulty": "intermediate",
+    "description": "Loving-Kindness Meditation (Metta) cultivates feelings of warmth and goodwill — first toward yourself, then extending outward to others. It's a powerful antidote to self-criticism and interpersonal conflict.",
+    "instructions": [
+      "Sit comfortably, close your eyes, and place a hand over your heart.",
+      "Begin by directing kindness to yourself. Silently repeat: 'May I be happy. May I be healthy. May I be safe. May I live with ease.'",
+      "Visualize someone you love. Repeat the phrases for them: 'May you be happy...'",
+      "Think of a neutral person (a stranger or acquaintance). Extend the same wishes to them.",
+      "If you're ready, think of someone difficult. Offer them the same phrases with compassion.",
+      "Finally, extend loving-kindness to all beings everywhere: 'May all beings be happy...'",
+      "Sit quietly for a moment and notice the warmth in your chest."
+    ],
+    "scientific_basis": "Fredrickson et al. (2008) found that 7 weeks of Loving-Kindness Meditation increased positive emotions, social connectedness, and life satisfaction."
+  }
+]
