@@ -225,7 +225,3 @@ This project is open source under the [MIT License](LICENSE).
 
 ---
 
-<p align="center">
-  <strong>🧠 MindfulLog</strong> — Because in the age of AI, your peace of mind still matters most.<br>
-  <em>Built with ❤️ for the OpenAI Codex x AIAT Hackathon</em>
-</p>
